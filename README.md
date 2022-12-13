@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Shoaib Rashid
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Front End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
